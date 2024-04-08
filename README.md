@@ -1,4 +1,5 @@
-<a href="https://totaltypescript.com/tutorials/beginners-typescript"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1709297838/github--beginngers-typescript_2x_p7vtmw.jpg" alt="beginner typescript tutorial" /></a>
+# Beginner's TypeScript
+<a href="https://totaltypescript.com/tutorials/beginners-typescript"><img src="./Certificate of Completion - Beginner's TypeScript.png" alt="beginner typescript tutorial" /></a>
 
 ## Quickstart
 
